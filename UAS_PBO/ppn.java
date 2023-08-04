@@ -5,7 +5,7 @@
 
 /**
  *
- * @author WINDOWS 10
+ * @author Jonathan Setya Widayat -22104410047
  */
 public interface ppn {
     
