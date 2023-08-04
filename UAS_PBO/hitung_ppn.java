@@ -1,8 +1,8 @@
 /**
  *
- * @author Nimas Ayu Anggun Kharisma
+ * @author Jonathan Setya Widayat
  * Teknik Informatika - univ. Islam Balitar
- * NIM : 22104410051
+ * NIM : 22104410047
  */
 import javax.swing.JOptionPane;
 public class hitung_ppn implements ppn {
